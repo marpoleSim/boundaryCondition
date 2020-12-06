@@ -1,0 +1,2 @@
+# boundaryCondition
+OpenFOAM boundary condition
